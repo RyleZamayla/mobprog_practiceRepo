@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.red,
       ),
       debugShowCheckedModeBanner: false,
       home: const MyHomePage(
-          title: 'Flutter Demo Home Page'
+          title: 'Flutter practice repo'
       ),
     );
   }
